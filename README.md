@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mdfarhan1/mdfarhan1/blob/main/github-header-image%20(2).png)](https://mdfarhan1.io)
+[![MasterHead](https://github.com/mdfarhan1/mdfarhan1/blob/main/github-header-banner.png)](https://mdfarhan1.io)
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">🎓 CS Student | ☁️ Passionate About Cloud & DevOps | AWS | GCP | AZURE</h3>
 <img align ="right" alt ="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
